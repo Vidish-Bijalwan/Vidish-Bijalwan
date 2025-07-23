@@ -104,4 +104,4 @@
 
 ---
 
-<p align="center"><b>“Engineering intelligence with purpose — one model, one line of code, one insight at a time.”</b></p>
+<p align="center"><b>“Lets, code some cool projects”</b></p>

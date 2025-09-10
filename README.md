@@ -3,7 +3,7 @@
 <h1 align="center">✨ Hey there, I'm Vidish Bijalwan 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krishnachoudhary01&label=Profile%20views&color=0e75b6&style=flat" alt="krishnachoudhary01" />
+  <img src="https://komarev.com/ghpvc/?username=Vidish-Bijalwan&label=Profile%20views&color=0e75b6&style=flat" alt="krishnachoudhary01" />
 </p>
 
 <p align="center">

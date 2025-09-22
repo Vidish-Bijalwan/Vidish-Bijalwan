@@ -3,8 +3,9 @@
 <h1 align="center">✨ Hey there, I'm Vidish Bijalwan 👨‍💻</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vidish-Bijalwan&label=Profile%20views&color=0e75b6&style=flat" alt="krishnachoudhary01" />
+  <img src="https://komarev.com/ghpvc/?username=Vidish-Bijalwan&label=Profile%20views&color=0e75b6&style=flat" alt="Vidish-Bijalwan" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FEEF&width=435&lines=Machine+Learning+Engineer+%7C+MLOps+Practitioner;Building+Intelligent+and+Scalable+Solutions;Cloud+Native+%7C+Neo4j+Certified+%7C+AI/ML+Explorer" alt="Typing SVG" />

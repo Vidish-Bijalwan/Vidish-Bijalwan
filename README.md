@@ -72,8 +72,8 @@
 - [**Sonar Signal Classifier**](https://github.com/Vidish-Bijalwan/Sonarr-Ml--Model---Stone-V-s-Mine)  
   <sup>🔊 Machine learning classifier distinguishing between Rock and Mine using sonar data.</sup>
 
-- [**Blood AI**](https://github.com/Vidish-Bijalwan/Blood_AI)  
-  <sup>⚙️ ML-backed Streamlit app analyzing blood parameters using classification techniques.</sup>
+- [**House Price Prediction**](https://github.com/Vidish-Bijalwan/House-Price-Prediction)  
+  <sup>This is an interactive web application that predicts house prices based on user inputs like area, number of bedrooms, bathrooms, and other house features.</sup>
 
 ---
 

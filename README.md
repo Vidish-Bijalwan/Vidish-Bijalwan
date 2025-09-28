@@ -63,14 +63,14 @@
 
 ## 📌 Highlight Projects
 
+- [**Churn-Revenue-prediction-forecasting**](https://github.com/Vidish-Bijalwan/Churn-Revenue-prediction-forecasting)  
+  <sup>🗂️ A comprehensive, production-ready telecom analytics platform that combines advanced machine learning with professional software engineering practices.</sup>
+
 - [**House Price Predictor**](https://github.com/Vidish-Bijalwan/House-Price-Prediction)  
   <sup>🧠 Streamlit-powered app predicting property values using a trained Random Forest model.</sup>
 
 - [**Sonar Signal Classifier**](https://github.com/Vidish-Bijalwan/Sonarr-Ml--Model---Stone-V-s-Mine)  
   <sup>🔊 Machine learning classifier distinguishing between Rock and Mine using sonar data.</sup>
-
-- [**Java Notes Manager**](https://github.com/Vidish-Bijalwan/java-notes-manager)  
-  <sup>🗂️ Java CLI tool to create, analyze, and search notes with full-text functionality.</sup>
 
 - [**Blood AI**](https://github.com/Vidish-Bijalwan/Blood_AI)  
   <sup>⚙️ ML-backed Streamlit app analyzing blood parameters using classification techniques.</sup>

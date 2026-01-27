@@ -88,8 +88,8 @@
 ## 📊 GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vidish-Bijalwan&show_icons=true&theme=algolia" width="410"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vidish-Bijalwan&theme=algolia" width="400"/>
+  <img src="https://github-readme-stats-api-omega.vercel.app/api/stats?username=Vidish-Bijalwan&theme=githubdark&style=insight"/>
+  <img src="https://github-readme-stats-api-omega.vercel.app/api/stats?username=Vidish-Bijalwan&theme=githubdark&style=summary"/>
 </p>
 
 ---

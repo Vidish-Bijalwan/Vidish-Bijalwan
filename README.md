@@ -1,107 +1,88 @@
-<!-- README.md — Vidish Bijalwan -->
-
-<h1 align="center">✨ Hey there, I'm Vidish Bijalwan 👨‍💻</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Vidish%20Bijalwan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Thinking%20beyond%20AGI%20!&descSize=20&descAlignY=58&theme=dark" />
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vidish-Bijalwan&label=Profile%20views&color=0e75b6&style=flat" alt="Vidish-Bijalwan" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FEEF&width=435&lines=Machine+Learning+Engineer+%7C+MLOps+Practitioner;Building+Intelligent+and+Scalable+Solutions;Cloud+Native+%7C+Neo4j+Certified+%7C+AI/ML+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58F5C7&center=true&vCenter=true&width=640&lines=I+ship+AI+that+survives+production;Founder+%E2%80%94+MyQuickTrippers.com;365+days+of+Deep-ML.+Zero+skips.;CSE+%40+Graphic+Era+%7C+Dehradun%2C+India" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vidish-bijalwan/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square"></a>
-  <a href="mailto:vidishbijalwan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://vidish-bijalwan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=flat-square&logo=github"></a>
+  <img src="https://komarev.com/ghpvc/?username=Vidish-Bijalwan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
-
-## 🚀 Who Am I?
-
-💡 I'm a CSE undergrad specializing in **Artificial Intelligence and Machine Learning**, with a passion for solving real-world problems using smart systems, scalable architectures, and MLOps pipelines.
-
-- 🎓 Pursuing B.Tech in Computer Science Engineering (AI/ML)
-- 🔬 Focused on **AI Engineering**, **Model Deployment**, and **Data-Driven Applications**
-- 🛠️ I enjoy merging **ML models with Dev workflows** using tools like Docker, Streamlit, FastAPI, and Kubernetes
-
----
-
-## 🧰 Tech Stack
-
-### 💻 Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/-C-00599C?logo=c%2B%2B&logoColor=white)
-
-### 🌐 Frontend & Backend Frameworks
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-
-### 📦 Python Libraries & Tools
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas)
-![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C)
-![Seaborn](https://img.shields.io/badge/-Seaborn-4479A1)
-
-### ☁️ DevOps, MLOps & Cloud
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?logo=githubactions&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoftazure&logoColor=white)
-
-### 🧠 Databases & Graph Tech
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
-![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?logo=neo4j&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-
----
-
-## 📌 Highlight Projects
-
-- [**Churn-Revenue-prediction-forecasting**](https://github.com/Vidish-Bijalwan/Churn-Revenue-prediction-forecasting)  
-  <sup>🗂️ A comprehensive, production-ready telecom analytics platform that combines advanced machine learning with professional software engineering practices.</sup>
-
-- [**House Price Predictor**](https://github.com/Vidish-Bijalwan/House-Price-Prediction)  
-  <sup>🧠 Streamlit-powered app predicting property values using a trained Random Forest model.</sup>
-
-- [**Sonar Signal Classifier**](https://github.com/Vidish-Bijalwan/Sonarr-Ml--Model---Stone-V-s-Mine)  
-  <sup>🔊 Machine learning classifier distinguishing between Rock and Mine using sonar data.</sup>
-
-- [**House Price Prediction**](https://github.com/Vidish-Bijalwan/House-Price-Prediction)  
-  <sup>This is an interactive web application that predicts house prices based on user inputs like area, number of bedrooms, bathrooms, and other house features.</sup>
-
----
-
-## 🎓 Certifications & Badges
-
-- 🧠 **Neo4j Graph Data Science Certification** (2025)  
-- ☁️ **Udemy Complete MLOps Bootcamp** (2025)
-- 🔐 **Complete Generative AI Course With Langchain and Huggingface** (2024)
-
----
-
-## 📊 GitHub Snapshot
-
 <p align="center">
-  <img src="https://github-readme-stats-api-omega.vercel.app/api/stats?username=Vidish-Bijalwan&theme=githubdark&style=insight"/>
-  <img src="https://github-readme-stats-api-omega.vercel.app/api/stats?username=Vidish-Bijalwan&theme=githubdark&style=summary"/>
-</p>
-
----
-
-## 🌐 Let’s Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vidish-bijalwan/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"></a>
+  <a href="https://www.linkedin.com/in/vidish-bijalwan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://x.com/vidish_sirus"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"></a>
+  <a href="https://www.myquicktrippers.com"><img src="https://img.shields.io/badge/MyQuickTrippers-FF6B35?style=for-the-badge&logo=airplane&logoColor=white"></a>
   <a href="mailto:vidishbijalwan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://vidish-bijalwan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=github"></a>
 </p>
 
 ---
 
-<p align="center"><b>“Lets, code some cool projects”</b></p>
+## ⚡ About Me
+
+- 🎓 **B.Tech CSE (AI/ML)** @ Graphic Era, Dehradun — I don't just study models, I ship them
+- 🚀 **Founder & sole engineer of [MyQuickTrippers.com](https://www.myquicktrippers.com)** — a live production travel platform: Next.js, SEO engine, first-party analytics, lead pipelines, automated content systems. Real users. Real traffic. Real revenue pressure.
+- 🔥 **365-day Deep-ML challenge** — one machine-learning problem every single day, no skips. ([follow the streak](https://github.com/Vidish-Bijalwan/deep-ml))
+- 🧠 Obsessed with the unglamorous parts that make AI real: Docker, FastAPI, deployment pipelines, monitoring, and code that doesn't break at 2 AM
+- 🎯 Right now: grinding DSA daily + hunting AI/ML internships
+
+---
+
+## 🛠️ Tech Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,js,c,fastapi,streamlit,nextjs,docker,kubernetes,githubactions,mysql,git,vercel,vscode&perline=13" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikitlearn&logoColor=white&style=flat-square">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square">
+  <img src="https://img.shields.io/badge/Seaborn-4479A1?style=flat-square">
+</p>
+
+---
+
+## 🔥 Featured Builds
+
+<p align="center">
+  <a href="https://github.com/Vidish-Bijalwan/mqt2.0"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidish-Bijalwan&repo=mqt2.0&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/Vidish-Bijalwan/deep-ml"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidish-Bijalwan&repo=deep-ml&theme=tokyonight&show_owner=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Vidish-Bijalwan/finverse"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidish-Bijalwan&repo=finverse&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/Vidish-Bijalwan/Churn-Revenue-prediction-forecasting"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidish-Bijalwan&repo=Churn-Revenue-prediction-forecasting&theme=tokyonight&show_owner=true" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/Vidish-Bijalwan/SMART-TRAFFIC-OPTIMIZER"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidish-Bijalwan&repo=SMART-TRAFFIC-OPTIMIZER&theme=tokyonight&show_owner=true" /></a>
+  <a href="https://github.com/Vidish-Bijalwan/House-Price-Prediction"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Vidish-Bijalwan&repo=House-Price-Prediction&theme=tokyonight&show_owner=true" /></a>
+</p>
+
+---
+
+## 🎓 Certification
+
+- 🔐 **Complete Generative AI Course with LangChain and HuggingFace** (2024)
+
+---
+
+## 📊 Stats That Speak
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidish-Bijalwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vidish-Bijalwan&show_icons=true&theme=tokyonight&hide_border=true&hide=stars" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Vidish-Bijalwan&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Vidish-Bijalwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+<p align="center"><i>"Let's code some cool projects."</i></p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&theme=dark" />

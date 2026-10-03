@@ -77,10 +77,6 @@
   <img src="https://streak-stats.demolab.com?user=Vidish-Bijalwan&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vidish-Bijalwan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</p>
-
 ---
 
 <p align="center"><i>"Let's code some cool projects."</i></p>
